@@ -25,7 +25,7 @@ public class TesteTipos {
         System.out.println(valor);
      
 //Tipo Incompativel:
-// String number="30";
+// String number="40";
  //int value=number;
  //int value =(int)number;
  
